@@ -25,31 +25,22 @@ header {
   padding-bottom: 40px;
 }
 
-
-@media (min-width: 992px) {
-  header {
-    padding: 156px 0 100px;
-  }
-}
-
 #about {
-  padding-top: 100px ;
+  padding-top: 100px;
 }
 
-.col-lg-8 h2{
+.col-lg-8 h2 {
   padding-bottom: 30px;
 }
 
-.space{
+.space {
   margin: 40px 40px 40px 40px;
 }
 
-.centered{
-    text-align:center;
-    font-size:5rem;
-    padding: 10px 70px 10px 70px;
-    
-    
+.centered {
+  text-align: center;
+  font-size: 5rem;
+  padding: 10px 70px 10px 70px;
 }
 
 .btn-primary {
@@ -62,6 +53,7 @@ header {
   background-position: 0;
 }
 
-#signature{
-  padding: 0px;
+@media only screen and (min-width: 400px){
+ background-color:black;
 }
+

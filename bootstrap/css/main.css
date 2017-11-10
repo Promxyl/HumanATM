@@ -4,7 +4,7 @@ header {
 }
 
 .bg-primary{
-  background-color: #7739A6 !important;
+  background-color: #0F3B75 !important;
 }
 
 .navbar{
@@ -54,8 +54,8 @@ header {
 
 .btn-primary {
   color: #fff;
-  background-color: #7739A6 ;
-  border-color: #7739A6 ;
+  background-color: #0F3B75;
+  border-color: #0F3B75;
   padding: 15px 70px 15px 70px;
   transition: none;
   text-decoration: none;
